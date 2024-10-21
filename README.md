@@ -1,9 +1,11 @@
 # to do list website
 
-Welcome to the GitHub repository for to do list. This project is a lightweight, fast, and easily navigable website built entirely with 1- vue 
-              2-vuetify
-              3-vuex
-              4-I18n-vue
+Welcome to the GitHub repository for to do list. This project is a lightweight, fast, and easily navigable website built entirely with 
+1. vue 
+2. vuetify
+3. vuex
+4. vuefire
+5. I18n-vue
 
 ## Features
 
