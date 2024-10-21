@@ -1,29 +1,19 @@
-# vue-project
+# to do list website
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to the GitHub repository for to do list. This project is a lightweight, fast, and easily navigable website built entirely with 1- vue 
+              2-vuetify
+              3-vuex
+              4-I18n-vue
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+-  **Lightweight and Fast:** The platform is designed to be fast-loading and lightweight, ensuring a smooth and responsive user experience.
 
-## Customize configuration
+- **User-Friendly Interface:** The website features an intuitive and user-friendly interface, making it easy for users
+                     to scroll , add new task ,add tasks to favorite ,delete and make it done
+                       
+- **authuntcation:** register ,login , sign out and using cookies to save state of user 
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- **Responsive Design:** The website is built with a responsive design, ensuring a consistent and enjoyable experience across various devices and screen sizes.
 
-## Project Setup
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
